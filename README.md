@@ -2,6 +2,28 @@
 
 Here's a program I've been using to train for a 10k run and a half marathon.
 
+<!--ts-->
+* [Program Modes](#program-modes)
+   * [Easy](#easy)
+   * [Medium](#medium)
+   * [Tempo Run](#tempo-run)
+   * [Interval](#interval)
+      * [1m interval](#1m-interval)
+      * [3m interval](#3m-interval)
+      * [5m interval](#5m-interval)
+   * [Long Distance](#long-distance)
+   * [Test Race](#test-race)
+* [8-Weeks Program](#8-weeks-program)
+   * [Week 1](#week-1)
+   * [Week 2](#week-2)
+   * [Week 3](#week-3)
+   * [Week 4](#week-4)
+   * [Week 5](#week-5)
+   * [Week 6](#week-6)
+   * [Week 7](#week-7)
+   * [Week 8](#week-8)
+<!--te-->
+
 ## Program Modes
 
 There are different program modes, described below in detail.
@@ -93,55 +115,79 @@ No matter if it's a city run, a country route or a well-known running path in th
 A test race only comes up on Week 7 but you can try it out before if you feel comfortable with your fitness level.
 
 ### Week 1
+
+```
 Mon: Easy 30m
 Wed: Easy 1hA
 Fri: Easy 30m
 Sat: Tempo Run 1h 20m
 Sun: Easy 1h
+```
 
 ### Week 2
+
+```
 Tue: Easy 30m
 Wed: Interval (of 3m) 1h 28m
 Fri: Easy 1h
 Sat: Medium 30
 Sun: Long Distance 1h 30m
+```
 
 ### Week 3
+
+```
 Tue: Easy 30m
 Wed: Medium 1h
 Fri: Easy 40m
 Sat: Easy 30m
 Sun: Easy 1h
+```
 
 ### Week 4
+
+```
 Tue: Easy 50m
 Wed: Interval (of 1m) 1h 10m
 Fri: Easy 1h
 Sat: Easy 30m
 Sun: Long Distance 1h 30m
+```
 
 ### Week 5
+
+```
 Tue: Easy 30m
 Wed: Interval (of 4m) 1h 20m
 Sat: Tempo Run 1h 20m
 Sun: Easy 1h
+```
 
 ### Week 6
+
+```
 Tue: Easy 30m
 Wed: Easy 1h
 Fri: Easy 40m
 Sat: Interval (of 3m) 1h 20m
 Sun: Long Distance 1h 30m
+```
 
 ### Week 7
+
+```
 Tue: Easy 30m
 Wed: Easy 50m
 Fri: Medium 40m
 Sun: Test Race 35m
+```
 
 ### Week 8
+
+```
 Tue: Easy 40m
 Wed: Interval (8x 3m run / 2m break)
 Fri: Easy 30m
 Sat: Tempo Run 1h 20m
 Sun: Long Distance 1h 30m
+```
