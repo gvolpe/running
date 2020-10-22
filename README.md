@@ -126,7 +126,7 @@ Sun: Easy 1h
 
 ```
 Tue: Easy 30m
-Wed: Interval (of 3m) 1h 28m
+Wed: Interval (8x 3m run / 3m break) 1h 28m
 Fri: Easy 1h
 Sat: Medium 30
 Sun: Long Distance 1h 30m
@@ -146,7 +146,7 @@ Sun: Easy 1h
 
 ```
 Tue: Easy 50m
-Wed: Interval (of 1m) 1h 10m
+Wed: Interval (15x 1m run / 1m break) 1h 10m
 Fri: Easy 1h
 Sat: Easy 30m
 Sun: Long Distance 1h 30m
@@ -156,7 +156,7 @@ Sun: Long Distance 1h 30m
 
 ```
 Tue: Easy 30m
-Wed: Interval (of 4m) 1h 20m
+Wed: Interval (5x 5m run / 3m break) 1h 20m
 Sat: Tempo Run 1h 20m
 Sun: Easy 1h
 ```
@@ -167,7 +167,7 @@ Sun: Easy 1h
 Tue: Easy 30m
 Wed: Easy 1h
 Fri: Easy 40m
-Sat: Interval (of 3m) 1h 20m
+Sat: Interval (8x 3m run / 2m break) 1h 20m
 Sun: Long Distance 1h 30m
 ```
 
@@ -184,7 +184,7 @@ Sun: Test Race 35m
 
 ```
 Tue: Easy 40m
-Wed: Interval (8x 3m run / 2m break)
+Wed: Interval (8x 3m run / 2m break) 1h 20m
 Fri: Easy 30m
 Sat: Tempo Run 1h 20m
 Sun: Long Distance 1h 30m
