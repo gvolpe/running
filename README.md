@@ -48,8 +48,6 @@ Pace: 4.45-5.00 min/km
 
 During the tempo run, you run faster than your "feel-good pace". However, you should have the impression that you can keep up this pace for a very long time. Your breath should be slightly strained, but regular. Still, you should not breathe too heavily. When running a tempo run, you should not feel like you're in a competition.
 
-The program usually consists of:
-
 ```
 - 1x 20m warm-up
 - 1x 40m run (Pace: 4.30-4.45 min/km)
