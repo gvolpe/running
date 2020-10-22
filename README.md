@@ -28,12 +28,10 @@ During the tempo run, you run faster than your "feel-good pace". However, you sh
 
 The program usually consists of:
 
-- 1x 20m warm-up
-- 1x 40m run at tempo run pace
-- 1x 20m cool-down
-
 ```
-Pace: 4.30-4.45 min/km
+- 1x 20m warm-up
+- 1x 40m run (Pace: 4.30-4.45 min/km)
+- 1x 20m cool-down
 ```
 
 ### Interval
